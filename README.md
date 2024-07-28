@@ -145,7 +145,3 @@ The provided code performs the following tasks:
 
 - Ensure that the Excel file path is correct.
 - Make sure that the Azure Search Service credentials and index name are correctly configured.
-
-## License
-
-This project is licensed under the MIT License.
